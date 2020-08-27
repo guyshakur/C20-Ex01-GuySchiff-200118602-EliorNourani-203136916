@@ -15,7 +15,6 @@ namespace UI
 		{
 			NewGame game = new NewGame();
 			Board board = new Board(game.SizeBoard);
-			board.ShowBoard();
 
 		}
 
